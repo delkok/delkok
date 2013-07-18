@@ -1,0 +1,4 @@
+delkok
+======
+
+install Android gadget
